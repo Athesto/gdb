@@ -35,10 +35,10 @@ void infoAlpha(char c)
 
 int is_upper(char c)
 {
-	return ('a' < c || c < 'Z');
+	return ('a' <= c || c <= 'Z');
 }
 
 int is_lower(char c)
 {
-	return ('a' < c || c < 'z');
+	return ('a' <= c || c <= 'z');
 }
