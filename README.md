@@ -18,6 +18,7 @@ for more information about this check the [logo's page][logo-info]
 ### Documents
 * [PDF-MANUAL][manual]
 * [GDB-QUICK-REF][qref1]
+* [Presentation][slider]
 ### Videos
 #### English
 * [9.2 - Debugging - GDB Tutorial][youtube-Chris-Bourke]
@@ -30,3 +31,4 @@ for more information about this check the [logo's page][logo-info]
 [youtube-Chris-Bourke]:https://www.youtube.com/watch?v=bWH-nL7v5F4
 [youtube-loveuala]:https://www.youtube.com/watch?v=sCtY--xRUyI
 [logo-info]:https://www.sourceware.org/gdb/mascot/
+[slider]:https://docs.google.com/presentation/d/1CAL3Pbv0ti_6yp8Im5O9Ov-vmtcUpQ14EM8IPQNGBy8/edit?usp=sharing
