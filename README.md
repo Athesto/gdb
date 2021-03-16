@@ -19,6 +19,8 @@ for more information about this check the [logo's page][logo-info]
 * [PDF-MANUAL][manual]
 * [GDB-QUICK-REF][qref1]
 * [Presentation][slider]
+* [GDB-Dashboard][gdb-dashboard]
+* [VIM-setup][vim-gdb]
 ### Videos
 #### English
 * [9.2 - Debugging - GDB Tutorial][youtube-Chris-Bourke]
@@ -26,6 +28,10 @@ for more information about this check the [logo's page][logo-info]
 #### Spanish
 [![](https://img.youtube.com/vi/3kcUNBnG_C0/hqdefault.jpg)][youtube-intro-gdb]
 
+### Commands
+|Code                   |Description            |
+|:--------------------- |:----------------------|
+|`tui [enable/disbable]`| enable or disable tui |
 <!--links-->
 [manual]:https://sourceware.org/gdb/current/onlinedocs/gdb.pdf
 [qref1]:https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf
@@ -34,3 +40,5 @@ for more information about this check the [logo's page][logo-info]
 [youtube-intro-gdb]:https://www.youtube.com/watch?v=3kcUNBnG_C0
 [logo-info]:https://www.sourceware.org/gdb/mascot/
 [slider]:https://docs.google.com/presentation/d/1CAL3Pbv0ti_6yp8Im5O9Ov-vmtcUpQ14EM8IPQNGBy8/edit?usp=sharing
+[gdb-dashboard]:https://github.com/cyrus-and/gdb-dashboard
+[vim-gdb]:https://www.dannyadam.com/blog/2019/05/debugging-in-vim/
