@@ -31,7 +31,9 @@ for more information about this check the [logo's page][logo-info]
 ### Commands
 |Code                   |Description            |
 |:--------------------- |:----------------------|
-|`tui [enable/disbable]`| enable or disable tui |
+|`tui [enable/disbable]`| enable or disable tui                 |
+|`info stack`           | show the lines of every function call |
+
 <!--links-->
 [manual]:https://sourceware.org/gdb/current/onlinedocs/gdb.pdf
 [qref1]:https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf
