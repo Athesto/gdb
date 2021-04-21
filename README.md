@@ -33,6 +33,7 @@ for more information about this check the [logo's page][logo-info]
 |:--------------------- |:----------------------|
 |`tui [enable/disbable]`| enable or disable tui                 |
 |`info stack`           | show the lines of every function call |
+|`info br`              | show the break points information     |
 
 <!--links-->
 [manual]:https://sourceware.org/gdb/current/onlinedocs/gdb.pdf
