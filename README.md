@@ -29,11 +29,17 @@ for more information about this check the [logo's page][logo-info]
 [![](https://img.youtube.com/vi/3kcUNBnG_C0/hqdefault.jpg)][youtube-intro-gdb]
 
 ### Commands
-|Code                   |Description            |
-|:--------------------- |:----------------------|
-|`tui [enable/disbable]`| enable or disable tui                 |
-|`info stack`           | show the lines of every function call |
-|`info br`              | show the break points information     |
+|Code                    |Description            |
+|:---------------------  |:----------------------|
+|`help word`         | help of a word ex `help x`  |
+|`start < file`      | start a file as stdin |
+|`start args`         | start with arguments |
+|`tui [enable/disbable]` | enable or disable tui                   |
+|`layout [src/split/asm]` | enable or disable tui                   |
+|`info stack`             | show the lines of every function call   |
+|`info br`                | show the break points information       |
+|`x/fmt variable`         | print variable with format `fmt=[c/s/a/d]`  |
+
 
 <!--links-->
 [manual]:https://sourceware.org/gdb/current/onlinedocs/gdb.pdf
